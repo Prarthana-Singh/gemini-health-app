@@ -62,7 +62,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 For any queries, reach out at:
 - 📧 Email: prarthanas645@gmail.com
-- 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/prarthanasingh)
+- 🔗 LinkedIn: [Here](https://linkedin.com/in/prarthanasingh)
 
 ---
 🔹 *Stay Healthy, Stay Fit!* 🔹
